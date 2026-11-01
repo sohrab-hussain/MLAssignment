@@ -1,0 +1,17 @@
+{
+  "model": "Decision Tree",
+  "best_params": {
+    "criterion": "entropy",
+    "max_depth": 8,
+    "min_samples_leaf": 20
+  },
+  "cv_auc": 0.7884,
+  "metrics": {
+    "Accuracy": 0.8975,
+    "AUC": 0.7984,
+    "Precision": 0.5995,
+    "Recall": 0.2726,
+    "F1": 0.3748,
+    "MCC": 0.3578
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "model": "Support Vector Machine",
+  "best_params": {
+    "C": 1.0,
+    "class_weight": "balanced",
+    "gamma": 0.01
+  },
+  "cv_auc": 0.7644,
+  "metrics": {
+    "Accuracy": 0.8354,
+    "AUC": 0.7824,
+    "Precision": 0.3674,
+    "Recall": 0.639,
+    "F1": 0.4666,
+    "MCC": 0.3977
+  }
+}

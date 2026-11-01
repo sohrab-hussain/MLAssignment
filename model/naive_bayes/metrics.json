@@ -1,0 +1,15 @@
+{
+  "model": "Naive Bayes",
+  "best_params": {
+    "var_smoothing": 0.01
+  },
+  "cv_auc": 0.7716,
+  "metrics": {
+    "Accuracy": 0.8522,
+    "AUC": 0.7802,
+    "Precision": 0.3811,
+    "Recall": 0.4989,
+    "F1": 0.4321,
+    "MCC": 0.3531
+  }
+}

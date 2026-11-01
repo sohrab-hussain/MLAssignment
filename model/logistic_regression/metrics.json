@@ -1,0 +1,15 @@
+{
+  "model": "Logistic Regression",
+  "best_params": {
+    "C": 0.1
+  },
+  "cv_auc": 0.7899,
+  "metrics": {
+    "Accuracy": 0.899,
+    "AUC": 0.8004,
+    "Precision": 0.6633,
+    "Recall": 0.2101,
+    "F1": 0.3191,
+    "MCC": 0.335
+  }
+}

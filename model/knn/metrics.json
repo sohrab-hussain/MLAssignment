@@ -1,0 +1,16 @@
+{
+  "model": "KNN",
+  "best_params": {
+    "n_neighbors": 101,
+    "weights": "uniform"
+  },
+  "cv_auc": 0.7837,
+  "metrics": {
+    "Accuracy": 0.8992,
+    "AUC": 0.7954,
+    "Precision": 0.669,
+    "Recall": 0.2091,
+    "F1": 0.3186,
+    "MCC": 0.3361
+  }
+}
