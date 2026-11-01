@@ -1,7 +1,10 @@
-streamlit
-scikit-learn
-numpy
-pandas
-matplotlib
-seaborn
-joblib
+# Pinned to the versions the models in model/ were trained with.
+# A .joblib pipeline must be loaded with the same scikit-learn version that saved it.
+streamlit==1.66.1
+scikit-learn==1.9.1
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
+seaborn==0.13.2
+joblib==1.6.0
+tabulate==0.10.0
